@@ -5,3 +5,7 @@ I am a second-year B.Tech student specializing in Artificial Intelligence and Da
 - Python
 - Data Structures and Algorithms
 - Git and GitHub
+
+## Interests
+
+I am interested in artificial intelligence, data science, problem solving, and software development.
