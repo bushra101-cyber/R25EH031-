@@ -1,1 +1,1 @@
-# R25EH031-
+I am a second-year B.Tech student specializing in Artificial Intelligence and Data Science, with an interest in programming, data structures, machine learning, and software development. I am currently building my technical skills through academic projects, coding practice, and hands-on development while preparing for future internship and placement opportunities.
