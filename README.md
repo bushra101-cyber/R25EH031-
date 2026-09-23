@@ -9,3 +9,7 @@ I am a second-year B.Tech student specializing in Artificial Intelligence and Da
 ## Interests
 
 I am interested in artificial intelligence, data science, problem solving, and software development.
+
+## Goals
+
+My goal is to strengthen my programming and problem-solving skills and gain practical experience through projects and internships.
